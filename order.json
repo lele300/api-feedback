@@ -1,0 +1,168 @@
+{
+    "orderId":"920861273544-01",
+    "sellerOrderId":"00-920861273544-01",
+    "origin":"Marketplace",
+    "statusDescription":"Faturado",
+    "value":14113,
+    "creationDate":"2019-03-28T22:21:33.9222598+00:00",
+    "lastChange":"2019-03-29T17:03:46.6192150+00:00",
+    "totals":[  
+        {  
+           "id":"Items",
+           "name":"Total dos Itens",
+           "value":12900
+        },
+        {  
+           "id":"Discounts",
+           "name":"Total dos Descontos",
+           "value":0
+        },
+        {  
+           "id":"Shipping",
+           "name":"Total do Frete",
+           "value":1213
+        },
+        {  
+           "id":"Tax",
+           "name":"Total da Taxa",
+           "value":0
+        }
+     ],
+     "items":[  
+        {  
+           "id":"7443",
+           "productId":"864",
+           "ean":"7890000514309",
+           "quantity":1,
+           "name":"Camisa social masculina tradicional algodão fio 50 azul escuro f07872a 07",
+           "refId":"SM02F07872ATF50C052T07",
+           "price":12900,
+           "listPrice":12900,
+           "imageUrl":"http://camisariafascynios.vteximg.com.br/arquivos/ids/222070-507-746/Camisa-social-masculina-tradicional-algodao-fio-50-azul-escuro-f07872a-1.jpg?v=636868795799900000",
+           "detailUrl":"/camisa-social-masculina-tradicional-algodao-fio-50-azul-escuro-f07872a/p",
+           "additionalInfo":{  
+              "brandName":"Fascynios",
+              "brandId":"2",
+              "categoriesIds":"/125/128/",
+              "productClusterId":"137,138,139,156"
+           },
+           "measurementUnit":"un",
+           "sellingPrice":12900,
+           "taxCode":"6205.20.00"
+        }
+    ],
+    "clientProfileData":{  
+       "email":"caaa49ebace540448785b0169736e4fc@ct.vtex.com.br",
+       "firstName":"Fabio",
+       "lastName":"Barros",
+       "documentType":"cpf",
+       "document":"22440394807",
+       "phone":"+5511964448815",
+       "corporateName":null,
+       "tradeName":null,
+       "corporateDocument":null,
+       "stateInscription":"",
+       "corporatePhone":null,
+       "isCorporate":false,
+       "userProfileId":"15fec744-085e-4169-9cee-8a59b8d5372e",
+       "customerClass":null
+    },
+    "marketingData":{  
+       "id":"marketingData",
+       "utmSource":"adwords",
+       "utmPartner":null,
+       "utmMedium":null,
+       "utmCampaign":"",
+       "coupon":null,
+       "utmiCampaign":"",
+       "utmipage":null,
+       "utmiPart":null
+    },
+    "shippingData":{  
+       "id":"shippingData",
+       "address":{  
+          "addressType":"residential",
+          "receiverName":"Fabio Barros",
+          "addressId":"f54a2e6647c34067bf3866a1f55efbcd",
+          "postalCode":"04145-020",
+          "city":"São Paulo",
+          "state":"SP",
+          "country":"BRA",
+          "street":"Rua Estero Belaco",
+          "number":"274",
+          "neighborhood":"Vila da Saúde",
+          "complement":"Apto 113",
+          "reference":null,
+          "geoCoordinates":[  
+             -46.632762908935547,
+             -23.616544723510742
+          ]
+       },
+       "logisticsInfo":[  
+          {  
+             "selectedSla":"Expressa",
+             "price":1213,
+             "listPrice":1213,
+             "sellingPrice":1213,
+             "deliveryCompany":"SEDEX",
+             "shippingEstimate":"4bd",
+             "shippingEstimateDate":"2019-04-03T22:22:10.8249537+00:00",
+             "addressId":"f54a2e6647c34067bf3866a1f55efbcd"
+          }
+       ],
+       "selectedAddresses":[  
+          {  
+             "addressId":"f54a2e6647c34067bf3866a1f55efbcd",
+             "addressType":"residential",
+             "receiverName":"Fabio Barros",
+             "street":"Rua Estero Belaco",
+             "number":"274",
+             "complement":"Apto 113",
+             "neighborhood":"Vila da Saúde",
+             "postalCode":"04145-020",
+             "city":"São Paulo",
+             "state":"SP",
+             "country":"BRA",
+             "reference":null,
+             "geoCoordinates":[  
+                -46.632762908935547,
+                -23.616544723510742
+             ]
+          }
+       ]
+    },
+    "paymentData":{  
+       "transactions":[  
+          {  
+             "merchantName":"CAMISARIAFASCYNIOS",
+             "payments":[  
+                {  
+                   "paymentSystemName":"Visa",
+                   "value":14113,
+                   "installments":3,
+                   "referenceValue":14113,
+                   "firstDigits":"406655",
+                   "lastDigits":"1870",
+                   "group":"creditCard",
+                   "connectorResponses":{  
+                      "acquirer":"MercadoPagoV1"
+                   }
+                }
+             ]
+          }
+       ]
+    },
+    "packageAttachment":{  
+       "packages":[  
+          {  
+             "courier":"Correios",
+             "invoiceNumber":"26705",
+             "invoiceValue":14113,
+             "invoiceUrl":null,
+             "issuanceDate":"2019-03-29T14:02:32.0000000+00:00",
+             "trackingNumber":"OG855332790BR",
+             "invoiceKey":"35190359377788000100550020000267051290789870",
+          }
+       ]
+    }
+}
